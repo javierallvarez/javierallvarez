@@ -1,5 +1,6 @@
 ### Hi there 👋
-![javierallvarez](https://user-images.githubusercontent.com/83608710/140790518-44f4831e-2ab7-4abe-abe3-7cba6435e1ba.gif)
+![Javier AllVarez](https://user-images.githubusercontent.com/83608710/140826132-47184163-f46e-474d-ac1a-dc05b3df211a.gif)
+
 
 <!--
 **javierallvarez/javierallvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
