@@ -1,6 +1,14 @@
-### Hello world! 👋
-
 ![JavierAllVarez](https://user-images.githubusercontent.com/83608710/141970618-dd8d8f59-c180-466e-aad1-38e4f6229875.gif)
+
+# 📫 How to reach me: 
+[Linkedin](https://www.linkedin.com/in/javier-allvarez-07783a111/) | [CodePen](https://codepen.io/javierallvarez) | [Email me](javiervarez@gmail.com) 
+
+# 🌱 I’m currently learning:
+- [x] HTML5
+- [x] CSS3
+- [x] JavaScript
+- [x] Python
+- [x] SQL 
 
 
 <!--
