@@ -8,7 +8,7 @@
 - [x] CSS3
 - [x] JavaScript
 - [x] Python
-- [x] SQL 
+- [x] Django
 
 
 <!--
