@@ -11,7 +11,7 @@
 - [x] Django
 
 # 🖥 Some projects:
-**Wiki project** for Harvard's CS50       ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=dizGtDMy27k) 
+**Wiki project** for Harvard's CS50       ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
 **Google pages clon** for Harvard's CS50  ⚡ HTML / CSS ⚡       [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
 
 
