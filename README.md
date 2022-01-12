@@ -11,8 +11,9 @@
 - [x] Django
 
 # 🖥 Some projects:
-**Wiki project** for Harvard's CS50       ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=dizGtDMy27k)
-**Google pages clon** for Harvard's CS50  ⚡ HTML / CSS ⚡       [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)
+**Wiki project** for Harvard's CS50       ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=dizGtDMy27k) 
+**Google pages clon** for Harvard's CS50  ⚡ HTML / CSS ⚡       [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
+
 
 <!--
 **javierallvarez/javierallvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
