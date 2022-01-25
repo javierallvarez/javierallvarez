@@ -14,7 +14,7 @@
 **Wiki project** for Harvard's CS50       ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
 **Google pages clon** for Harvard's CS50  ⚡ HTML / CSS ⚡       [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
 **Sunnyside Agency Landing Page** ⚡ HTML / CSS ⚡  [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/)   
-**Sosandlow Music Langing Page** ⚡ HTML / CSS ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/#music)
+**Sosandlow Music Langing Page** ⚡ HTML / CSS ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/)
 
 
 <!--
