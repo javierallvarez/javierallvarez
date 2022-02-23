@@ -4,17 +4,19 @@
 [Linkedin](https://www.linkedin.com/in/javier-allvarez-07783a111/) | [CodePen](https://codepen.io/javierallvarez) | [Email me](javiervarez@gmail.com) 
 
 # 🌱 I’m currently learning:
-- [x] HTML5
-- [x] CSS3
+
 - [x] JavaScript
 - [x] Python
 - [x] Django
+- [x] HTML5
+- [x] CSS3
 
 # 🖥 Some projects:
+**Commerce project** for Harvard's CS50   ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=551MG1SBFHc)
 **Wiki project** for Harvard's CS50       ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
-**Google pages clon** for Harvard's CS50  ⚡ HTML / CSS ⚡       [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
-**Sunnyside Agency Landing Page** ⚡ HTML / CSS ⚡  [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/)   
-**Sosandlow Music Langing Page** ⚡ HTML / CSS ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/)
+**Google pages clon** for Harvard's CS50  ⚡ HTML / CSS        [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
+**Sunnyside Agency Landing Page** ⚡ HTML / CSS   [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/)   
+**Sosandlow Music Langing Page** ⚡ HTML / CSS   [Page](https://javierallvarez.github.io/sosandlow-landing-page/)
 
 
 <!--
