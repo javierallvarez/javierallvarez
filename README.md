@@ -12,7 +12,7 @@
 - [x] CSS3
 
 # 🖥 Some projects:
-**Commerce project** for Harvard's CS50   ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=551MG1SBFHc)
+**Commerce project** for Harvard's CS50   ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
 **Wiki project** for Harvard's CS50       ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
 **Google pages clon** for Harvard's CS50  ⚡ HTML / CSS        [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
 **Sunnyside Agency Landing Page** ⚡ HTML / CSS   [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/)   
