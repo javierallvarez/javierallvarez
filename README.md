@@ -11,12 +11,18 @@
 - [x] HTML5
 - [x] CSS3
 
-# 🖥 Some projects:
-**Commerce project** for Harvard's CS50   ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
-**Wiki project** for Harvard's CS50       ⚡️ Python / Django    [Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
-**Google pages clon** for Harvard's CS50  ⚡ HTML / CSS        [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
-**Sunnyside Agency Landing Page** ⚡ HTML / CSS   [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/)   
-**Sosandlow Music Langing Page** ⚡ HTML / CSS   [Page](https://javierallvarez.github.io/sosandlow-landing-page/)
+# 🤖 Python & Django projects:
+**'Logger'** where cool users loggin in ⚡[Code](https://github.com/javierallvarez/logger)  
+**'Commerce' project** for Harvard's CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
+**'Wiki' project** for Harvard's CS50       ⚡️ [Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
+
+
+# 💻 HTML5 & CSS3 projects: 
+**'Google pages' clon** for Harvard's CS50  ⚡  [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
+**'Sunnyside' Agency Landing Page** ⚡  [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/) · [Code](https://github.com/javierallvarez/sunnyside-agency-landing-page-main)  
+**'Sosandlow Music' Langing Page** ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/) · [Code](https://github.com/javierallvarez/sosandlow-landing-page)
+
+## 😄 Thank you for visiting!
 
 
 <!--
