@@ -12,7 +12,7 @@
 - [x] CSS3
 
 # 🤖 Python & Django projects:
-**'Logger'** where cool users loggin in ⚡[Code](https://github.com/javierallvarez/logger)  
+**'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
 **'Commerce' project** for Harvard's CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
 **'Wiki' project** for Harvard's CS50       ⚡️ [Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
 
