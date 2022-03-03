@@ -1,7 +1,10 @@
 ![JavierAllVarez](https://user-images.githubusercontent.com/83608710/141970618-dd8d8f59-c180-466e-aad1-38e4f6229875.gif)
 
 # 📫 How to reach me: 
-[Linkedin](https://www.linkedin.com/in/javier-allvarez-07783a111/) | [CodePen](https://codepen.io/javierallvarez) | [Email me](javiervarez@gmail.com) 
+[Linkedin](https://www.linkedin.com/in/javier-all-varez-07783a111/) | [CodePen](https://codepen.io/javierallvarez) | [Email me](javiervarez@gmail.com) 
+
+# 🧑🏻 CV:  
+[Download CV 2022](https://www.dropbox.com/s/1a1p60zbr4zxkft/CV%20Javier%20%C3%81lvarez%20Garc%C3%ADa%20Ene.2022.pdf?dl=0)
 
 # 🌱 I’m currently learning:
 
