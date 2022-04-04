@@ -17,10 +17,11 @@
 # 🤖 Python & Django projects:
 **'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
 **'Commerce' project** for Harvard's CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
-**'Wiki' project** for Harvard's CS50       ⚡️ [Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
+**'Wiki' project** for Harvard's CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
 
 # 👨🏻‍💻 JavaScript projects:
-**'Techno Couples' game** ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)  
+**'Email' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM)  
+**'Techno Couples' game**                   ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)    
 
 # 💻 HTML5 & CSS3 projects: 
 **'Google pages' clon** for Harvard's CS50  ⚡  [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
