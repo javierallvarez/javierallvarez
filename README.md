@@ -9,15 +9,18 @@
 # 🌱 I’m currently learning:
 
 - [x] JavaScript
+- [x] Vue
 - [x] Python
 - [x] Django
 - [x] HTML5
 - [x] CSS3
 
 # 🤖 Python & Django projects:
-**'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
+**'Network' project** for Harvard's CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms)  
 **'Commerce' project** for Harvard's CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
 **'Wiki' project** for Harvard's CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
+**'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
+
 
 # 👨🏻‍💻 JavaScript projects:
 **'Email' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM)  
