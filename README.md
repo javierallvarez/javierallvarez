@@ -15,16 +15,17 @@
 - [x] HTML5
 - [x] CSS3
 
-# 🤖 Python & Django projects:
-**'Network' project** for Harvard's CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms)  
+# 👨🏻‍💻 JavaScript projects:
+**'Network' social net project** for Harvard's CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms)  
+**'Email' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM)  
+**'Techno Couples' game**                   ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)    
+ 
+ 
+# 🤖 Python & Django projects: 
 **'Commerce' project** for Harvard's CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
 **'Wiki' project** for Harvard's CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k)  
 **'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
 
-
-# 👨🏻‍💻 JavaScript projects:
-**'Email' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM)  
-**'Techno Couples' game**                   ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)    
 
 # 💻 HTML5 & CSS3 projects: 
 **'Google pages' clon** for Harvard's CS50  ⚡  [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
