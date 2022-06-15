@@ -17,19 +17,20 @@
 - [x] CSS3
 
 # 👨🏻‍💻 JavaScript projects:
-**'Network' social net project** for Harvard's CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms)  
+**'8News' final project** for Harvard CS50  ⚡[Video](https://www.youtube.com/watch?v=3VnyH0xtQ9A&t=93s) · [Code](https://github.com/javierallvarez/cs50-final-project)  
+**'Network' social net project** for Harvard CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms)  
 **'Email' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM)  
 **'Techno Couples' game**                   ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)    
  
  
 # 🤖 Python & Django projects: 
-**'Commerce' project** for Harvard's CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
-**'Wiki' project** for Harvard's CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k) · [Code](https://github.com/javierallvarez/wiki_project)  
+**'Commerce' project** for Harvard CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
+**'Wiki' project** for Harvard CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k) · [Code](https://github.com/javierallvarez/wiki_project)  
 **'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
 
 
 # 💻 HTML5 & CSS3 projects: 
-**'Google pages' clon** for Harvard's CS50  ⚡  [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
+**'Google pages' clon** for Harvard CS50  ⚡  [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
 **'Sunnyside' Agency Landing Page** ⚡  [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/) · [Code](https://github.com/javierallvarez/sunnyside-agency-landing-page-main)  
 **'Sosandlow Music' Langing Page** ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/) · [Code](https://github.com/javierallvarez/sosandlow-landing-page)
 
