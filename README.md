@@ -24,8 +24,8 @@
  
  
 # 🤖 Python & Django projects: 
-**'Commerce' project** for Harvard CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
-**'Wiki' project** for Harvard CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k) · [Code](https://github.com/javierallvarez/wiki_project) 
+**'Commerce' project** for Harvard CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc) · [Code](https://github.com/javierallvarez/cs50-commerce)  
+**'Wiki' project** for Harvard CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k) · [Code](https://github.com/javierallvarez/wiki_project)  
 **'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
 
 
