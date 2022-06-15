@@ -1,4 +1,5 @@
-![JavierAllVarez](https://user-images.githubusercontent.com/83608710/141970618-dd8d8f59-c180-466e-aad1-38e4f6229875.gif)
+![gitHub_javi](https://user-images.githubusercontent.com/83608710/173802285-842668a6-2e2f-4df9-9123-6eaf4f3fb359.gif)
+
 
 # 📫 How to reach me: 
 [Linkedin](https://www.linkedin.com/in/javier-all-varez-07783a111/) | [CodePen](https://codepen.io/javierallvarez) | [Email me](javiervarez@gmail.com) 
