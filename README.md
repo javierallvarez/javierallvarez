@@ -19,13 +19,13 @@
 # 👨🏻‍💻 JavaScript projects:
 **'8News' final project** for Harvard CS50  ⚡[Video](https://www.youtube.com/watch?v=3VnyH0xtQ9A&t=93s) · [Code](https://github.com/javierallvarez/cs50-final-project)  
 **'Network' social network project** for Harvard CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms) · [Code](https://github.com/javierallvarez/cs50-social-network)    
-**'Email' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM)  
+**'Mail' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM) · [Code](https://github.com/javierallvarez/cs50-mail-project)  
 **'Techno Couples' game**                   ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)    
  
  
 # 🤖 Python & Django projects: 
 **'Commerce' project** for Harvard CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc)  
-**'Wiki' project** for Harvard CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k) · [Code](https://github.com/javierallvarez/wiki_project)  
+**'Wiki' project** for Harvard CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k) · [Code](https://github.com/javierallvarez/wiki_project) 
 **'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
 
 
