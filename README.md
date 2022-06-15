@@ -18,7 +18,7 @@
 
 # 👨🏻‍💻 JavaScript projects:
 **'8News' final project** for Harvard CS50  ⚡[Video](https://www.youtube.com/watch?v=3VnyH0xtQ9A&t=93s) · [Code](https://github.com/javierallvarez/cs50-final-project)  
-**'Network' social net project** for Harvard CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms)  
+**'Network' social network project** for Harvard CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms) · [Code](https://github.com/javierallvarez/cs50-social-network)    
 **'Email' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM)  
 **'Techno Couples' game**                   ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)    
  
