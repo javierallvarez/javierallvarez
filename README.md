@@ -36,6 +36,7 @@
 
 ## 😄 Thank you for visiting!
 
+![](https://komarev.com/ghpvc/?username=javierallvarez&style=for-the-badge)
 
 <!--
 **javierallvarez/javierallvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
