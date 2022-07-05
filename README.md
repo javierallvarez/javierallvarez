@@ -9,13 +9,8 @@
 -->
 
 # 🌱 I’m currently learning:
-
-- [x] JavaScript
 - [x] React
-- [x] Python
-- [x] Django
-- [x] HTML5
-- [x] CSS3
+
 
 # 👨🏻‍💻 JavaScript projects:
 **'8News' final project** for Harvard CS50  ⚡[Video](https://www.youtube.com/watch?v=3VnyH0xtQ9A&t=93s) · [Code](https://github.com/javierallvarez/cs50-final-project)  
@@ -34,6 +29,13 @@
 **'Google pages' clon** for Harvard CS50  ⚡  [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
 **'Sunnyside' Agency Landing Page** ⚡  [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/) · [Code](https://github.com/javierallvarez/sunnyside-agency-landing-page-main)  
 **'Sosandlow Music' Langing Page** ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/) · [Code](https://github.com/javierallvarez/sosandlow-landing-page)
+
+# 🙊 Fun facts:  
+🎹 I compose electronic music, you can find the link to my Spotify profile.  
+🧘‍♂️ I practice Yoga & Meditation daily.  
+🎾 I play tennis, very bad, but it is fun.  
+🍷 I love wine testing.  
+
 
 ## 😄 Thank you for visiting!
 
