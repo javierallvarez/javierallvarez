@@ -31,10 +31,10 @@
 **'Sosandlow Music' Langing Page** ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/) · [Code](https://github.com/javierallvarez/sosandlow-landing-page)
 
 # 🙊 Fun facts:  
-🎹 I compose electronic music, you can find the link to my Spotify profile.  
 🧘‍♂️ I practice Yoga & Meditation daily.  
 🎾 I play tennis, very bad, but it is fun.  
 🍷 I love wine testing.  
+🎹 I compose electronic music, you can find the link to my Spotify profile.  
 
 
 ## 😄 Thank you for visiting!
