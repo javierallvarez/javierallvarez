@@ -34,7 +34,7 @@
 🧘‍♂️ I practice Yoga & Meditation daily.  
 🎾 I play tennis, very bad, but it is fun.  
 🍷 I love wine testing.  
-🎹 I compose electronic music, you can find the link to my Spotify profile.  
+🎹 I used to compose electronic music, you can find the link to my Spotify profile.  
 
 
 ## 😄 Thank you for visiting!
