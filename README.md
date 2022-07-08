@@ -32,7 +32,7 @@
 
 # 🙊 Fun facts:  
 🧘‍♂️ I practice Yoga daily.  
-🧠 I discovered the benefits of meditation reading neuroscience books.
+🧠 I discovered the benefits of meditation reading neuroscience books.  
 🎾 I play tennis, very bad, but it is fun.  
 🍷 I love wine testing.  
 🎹 I used to compose electronic music, you can find the link to my Spotify profile.  
