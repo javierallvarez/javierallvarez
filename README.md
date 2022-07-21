@@ -31,9 +31,9 @@
 **'Sosandlow Music' Langing Page** ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/) · [Code](https://github.com/javierallvarez/sosandlow-landing-page)
 
 # 🙊 Fun facts:  
-🧘‍♂️ I practice Yoga daily.  
 🧠 I discovered the benefits of meditation reading neuroscience books.  
 🎾 I play tennis, very bad, but it is fun.  
+🧘‍♂️ I practice Yoga daily.  
 🍷 I love wine testing.  
 🎹 I used to compose electronic music, you can find the link to my Spotify profile.  
 
