@@ -11,6 +11,9 @@
 # 🌱 I’m currently learning:
 - [x] React
 
+#  🌋 React projects:
+**'Contact List'**   ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)  
+
 
 # 👨🏻‍💻 JavaScript projects:
 **'8News' final project** for Harvard CS50  ⚡[Video](https://www.youtube.com/watch?v=3VnyH0xtQ9A&t=93s) · [Code](https://github.com/javierallvarez/cs50-final-project)  
