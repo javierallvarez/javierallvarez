@@ -9,7 +9,9 @@
 -->
 
 # 🌱 I’m currently learning:
-- [x] React
+- [x] React  
+- [x] Git  
+- [x] Node
 
 #  🌋 React projects:
 **'Contact List'**   ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)  
