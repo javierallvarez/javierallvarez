@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-# 🧑🏻 CV:  
-[Download CV 2022](https://www.dropbox.com/s/uc8hm7ot4ja5672/Javier_%C3%81lvarez_CV2022.pdf?dl=0)
-
 # Skills:
 <div>
 
