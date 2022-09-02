@@ -33,7 +33,8 @@
 - [x] TypeScript
 
 # React projects:
-**'Contact List'**   ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)  
+**'GIF Catcher'**   ⚡[App](https://gifcatcher.netlify.app/) · [Code](https://github.com/javierallvarez/react-gif-catcher)  
+**'Contact List'**   ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)   
 
 
 # JavaScript projects:
