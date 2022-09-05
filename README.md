@@ -5,7 +5,7 @@
 [Linkedin](https://www.linkedin.com/in/javier-allvarez-garc%C3%ADa-07783a111/) | [CodePen](https://codepen.io/javierallvarez)  
 -->
 
-# 📫 How to reach me: 
+# How to reach me: 
 <a href="https://www.linkedin.com/in/javier-allvarez-garc%C3%ADa-07783a111/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
@@ -27,7 +27,7 @@
    
 </div>
 
-# 🌱 I’m currently learning:
+# I’m currently learning:
 - [x] React  
 - [x] Git  
 - [x] TypeScript
@@ -37,20 +37,17 @@
 **'Contact List'**   ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)   
 
 
-# JavaScript projects:
+#  Django {JavaScript + Python} projects: 
 **'8News' final project** for Harvard CS50  ⚡[Video](https://www.youtube.com/watch?v=3VnyH0xtQ9A&t=93s) · [Code](https://github.com/javierallvarez/cs50-final-project)  
 **'Network' social network project** for Harvard CS50 ⚡[Video](https://www.youtube.com/watch?v=ZaTCt1RsZms) · [Code](https://github.com/javierallvarez/cs50-social-network)    
 **'Mail' project** for Harvard's CS50      ⚡️[Video](https://www.youtube.com/watch?v=enn_822gmMM) · [Code](https://github.com/javierallvarez/cs50-mail-project)  
-**'Techno Couples' game**                   ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)    
- 
- 
-# Python & Django projects: 
 **'Commerce' project** for Harvard CS50   ⚡️[Video](https://www.youtube.com/watch?v=551MG1SBFHc) · [Code](https://github.com/javierallvarez/cs50-commerce)  
 **'Wiki' project** for Harvard CS50       ⚡️[Video](https://www.youtube.com/watch?v=dizGtDMy27k) · [Code](https://github.com/javierallvarez/wiki_project)  
 **'Logger'** where cool users log in ⚡[Code](https://github.com/javierallvarez/logger)  
 
 
-# HTML5 & CSS3 projects: 
+# JavaScript + HTML5 + CSS3 projects: 
+**'Techno Couples' game** ⚡️[Page](https://javierallvarez.github.io/technoCouples/) · [Code](https://github.com/javierallvarez/technoCouples)  
 **'Google pages' clon** for Harvard CS50  ⚡  [Video](https://www.youtube.com/watch?v=g0lFQQ1MBLI)  
 **'Sunnyside' Agency Landing Page** ⚡  [Page](https://sunnyside-agency-landing-page-main-javierallvarez.vercel.app/) · [Code](https://github.com/javierallvarez/sunnyside-agency-landing-page-main)  
 **'Sosandlow Music' Langing Page** ⚡  [Page](https://javierallvarez.github.io/sosandlow-landing-page/) · [Code](https://github.com/javierallvarez/sosandlow-landing-page)
