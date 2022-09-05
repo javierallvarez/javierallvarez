@@ -33,7 +33,7 @@
 - [x] TypeScript
 
 # React projects:
-**'GIF Catcher'**   ⚡[App](https://gifcatcher.netlify.app/) · [Code](https://github.com/javierallvarez/react-gif-catcher)  
+**'GIF Catcher'**   ⚡[App](https://gifcatcher.netlify.app/) · [Code](https://github.com/javierallvarez/gif-catcher-react)  
 **'Contact List'**   ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)   
 
 
