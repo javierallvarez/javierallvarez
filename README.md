@@ -33,9 +33,9 @@
 - [x] TypeScript
 
 # React projects:
-**'GIF Catcher'**   ⚡[App](https://gifcatcher.netlify.app/) · [Code](https://github.com/javierallvarez/gif-catcher-react)  
-**'Contact List'**   ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)   
-**'Quotes From People'**   ⚡ [Code](https://github.com/javierallvarez/quotes-people-react)   
+**'GIF Catcher'**  responsive app ⚡[App](https://gifcatcher.netlify.app/) · [Code](https://github.com/javierallvarez/gif-catcher-react)  
+**'Contact List'**  responsive app ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)   
+**'Quotes From People'**  responsive app ⚡ [Code](https://github.com/javierallvarez/quotes-people-react)   
 
 
 #  Django {JavaScript + Python} projects: 
