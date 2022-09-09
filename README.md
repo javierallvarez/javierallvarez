@@ -34,8 +34,8 @@
 
 # React projects:
 **'GIF Catcher'**  responsive app ⚡[App](https://gifcatcher.netlify.app/) · [Code](https://github.com/javierallvarez/gif-catcher-react)  
-**'Contact List'**  responsive app ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)   
-**'Quotes From People'**  responsive app ⚡ [Code](https://github.com/javierallvarez/quotes-people-react)   
+**'Quotes From People'**  responsive app ⚡ [App](https://quotesfrompeople.netlify.app/)  · [Code](https://github.com/javierallvarez/quotes-people-react)  
+**'Contact List'**  responsive app ⚡[App](https://react-contact-list-three.vercel.app/) · [Code](https://github.com/javierallvarez/reactContactList)     
 
 
 #  Django {JavaScript + Python} projects: 
