@@ -1,4 +1,4 @@
-<a href="https://gifcatcher.netlify.app/">![github-gif](https://user-images.githubusercontent.com/83608710/188137362-560cce73-712e-4f37-9fb7-f6b1f9ba6b79.gif)<a/>
+<a href="https://gifcatcher.netlify.app/" target="_blank">![github-gif](https://user-images.githubusercontent.com/83608710/188137362-560cce73-712e-4f37-9fb7-f6b1f9ba6b79.gif)<a/>
 
 
 <!--
