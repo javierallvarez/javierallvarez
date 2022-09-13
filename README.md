@@ -58,8 +58,7 @@
 🎾 I play tennis, very bad, but it is fun.  
 🧘‍♂️ I practice Yoga daily.  
 🍷 I love wine testing.  
-🎹 I used to compose electronic music, you can find the link to my Spotify profile.  
-
+🎹 I used to compose electronic music, you can find the link to my [Spotify artist page](https://open.spotify.com/artist/1VUIMTu1HoVbG7EXkYdyf6?si=_I9Z3B3oS_-44JEC0PKgFw).
 
 ## 😄 Thank you for visiting!
 
