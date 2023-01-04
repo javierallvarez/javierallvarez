@@ -28,10 +28,12 @@
    
 </div>
 
+  <!--
 # I’m currently learning:
 - [x] React  
 - [x] Git  
 - [x] TypeScript
+-->
 
 # React projects:
 **'GIF Catcher'**  responsive app ⚡[App](https://gifcatcher.netlify.app/) · [Code](https://github.com/javierallvarez/gif-catcher-react)  
