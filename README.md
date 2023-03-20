@@ -6,7 +6,7 @@
 -->
 
 # How to reach me: 
-<a href="https://www.linkedin.com/in/javier-allvarez-garc%C3%ADa-07783a111/">
+<a href="https://www.linkedin.com/in/javier-allvarez-07783a111">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
